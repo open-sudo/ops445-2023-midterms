@@ -17,7 +17,7 @@ git clone <link> ~/ops445/midterms/
 Please note that this test run script does not check your script docstring or your function docstring.  
 
 ```bash
-cd ~/ops445/assignment1/
+cd ~/ops445/midterms/
 pwd #confirm that you are in the right directory
 python3 ./midterms.py stats.csv
 ```
